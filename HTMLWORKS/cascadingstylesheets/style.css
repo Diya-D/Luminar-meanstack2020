@@ -1,0 +1,37 @@
+/*tag/class/id{
+    property:value;
+    property:value;
+}*/
+h1{
+    color: aqua;
+}
+
+/*since there are more than one h1 tag in html file the colour of every h1 will be same ..to get different colours we can use id.*/
+/*example <h1 id="one">in html*/
+/*in css we can directly use id of h1 ..but #should be used before id.example #one*/
+body{
+    background-color: rgb(59, 59, 11);
+}
+h2{
+    color: burlywood;
+}
+#one{
+    color: chartreuse;
+}
+div{
+    border-style: double;
+    border-color:rgb(173, 237, 100);
+}
+#second{
+    border-style: double;
+    border-color: rgb(72, 11, 184);
+
+}
+.third{
+    border-style: none;
+    border-bottom-style: ridge;
+    background-color: darkorchid;
+}
+#lione{
+    color: darkturquoise;
+}

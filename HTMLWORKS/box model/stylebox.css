@@ -1,0 +1,19 @@
+#top{
+    width: 50%;
+    color: hotpink;
+    border-style: double;
+    border-color: rgb(25, 25, 204);
+    margin-left: 15%;
+    
+    padding-left: 30%;
+    margin-top: 20px;
+}
+#bottom{
+    width: 50%;
+    color: indianred;
+    border-style: double;
+    border-color: rgb(73, 73, 224);
+    margin-top: 25%;
+    margin-left: 15%;
+    padding-left: 25%;
+}

@@ -1,0 +1,10 @@
+initialisation
+while(condition){
+    body of the loop
+    increment or decrement
+}
+
+
+for(initialisation;condition;increment/decrement){
+    statements
+}
